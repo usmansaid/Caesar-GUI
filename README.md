@@ -14,7 +14,7 @@ _Glassmorphism Design • Multiple Themes • Cyber Aesthetics_
 
 <br />
 
-[![Try It Out](https://img.shields.io/badge/🚀_Launch_App-Click_Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usaihack.github.io/Caesar-GUI/)
+[![Try It Out](https://img.shields.io/badge/🚀_Launch_App-Click_Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usmansaid.github.io/Caesar-GUI/)
 
 </div>
 
